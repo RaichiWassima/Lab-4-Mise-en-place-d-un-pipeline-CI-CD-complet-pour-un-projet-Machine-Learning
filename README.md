@@ -59,5 +59,5 @@ Les modifications ont été validées et poussées vers GitHub, déclenchant aut
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 Ce lab met en évidence l’importance de l’automatisation CI/CD dans un contexte MLOps, en garantissant une intégration continue fiable, un contrôle qualité systématique des modèles et une préparation efficace au déploiement en production.
